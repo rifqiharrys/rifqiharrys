@@ -1,5 +1,10 @@
 # Hi there, I'm Rifqi 👋
 
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifqiharrys)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifqiharrys/)
+[![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8254-2492)
+[![research-gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rifqi-Harrys-2)
+
 ![rifqiharys's stats](https://github-readme-stats.vercel.app/api?username=rifqiharrys&theme=default&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs)
 
 ## 🚀 About Me
