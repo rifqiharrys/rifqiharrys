@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Rifqi 👋
+
+![rifqiharys's stats](https://github-readme-stats.vercel.app/api?username=rifqiharrys&theme=default&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs)
+
+## 🚀 About Me
+
+- 🗺️ I'm a mapping surveyor of [Badan Informasi Geospasial](https://big.go.id), a geospatial authority in Indonesia.
+- 🛰️ I have an interest on improving Satellite-Derived Bathymetry for shallow water mapping.
+- 🎓 I'm looking for a master's scholarship that would support the research on improving Satellite-Derived Bathymetry for a faster shallow water mapping in Indonesia's remote areas.
+
+## 📌 Notable Project
+
+[![SDB GUI](https://github-readme-stats.vercel.app/api/pin/?username=rifqiharrys&repo=sdb_gui&show_owner=true)](https://github.com/rifqiharrys/sdb_gui)
+
+[SDB GUI](https://github.com/rifqiharrys/sdb_gui) is one of my personal project that has supported Badan Informasi Geospasial's bathymetric mapping in shallow coastal waters and coastline generation since 2020.
 
 <!--
 **rifqiharrys/rifqiharrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
