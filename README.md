@@ -17,7 +17,7 @@
 
 [![SDB GUI](https://github-readme-stats.vercel.app/api/pin/?username=rifqiharrys&repo=sdb_gui&show_owner=true)](https://github.com/rifqiharrys/sdb_gui)
 
-[SDB GUI](https://github.com/rifqiharrys/sdb_gui) is one of my personal project that has supported Badan Informasi Geospasial's bathymetric mapping in shallow coastal waters and coastline generation since 2020.
+[SDB GUI](https://github.com/rifqiharrys/sdb_gui) is one of my personal project that has supported Badan Informasi Geospasial's bathymetric mapping in shallow coastal waters and coastline generation since 2021.
 
 <!--
 **rifqiharrys/rifqiharrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
