@@ -11,7 +11,7 @@
 
 - 🗺️ I'm a mapping surveyor of [Badan Informasi Geospasial](https://big.go.id), a geospatial authority in Indonesia.
 - 🛰️ I have an interest on improving Satellite-Derived Bathymetry for shallow water mapping.
-- 🎓 I'm looking for a master's scholarship that would support the research on improving Satellite-Derived Bathymetry for faster shallow water mapping in Indonesia's remote areas.
+- 🎓 I'm open to a master's scholarship that would support the research on improving Satellite-Derived Bathymetry for faster shallow water mapping in Indonesia's remote areas.
 
 ## 📌 Notable Project
 
