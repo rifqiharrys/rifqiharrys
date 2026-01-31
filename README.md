@@ -5,7 +5,7 @@
 [![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8254-2492)
 [![research-gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rifqi-Harrys-2)
 
-![rifqiharys's stats](https://github-readme-stats.vercel.app/api?username=rifqiharrys&theme=default&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs)
+![rifqiharys's stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rifqiharrys&theme=default&show_icons=true&hide_border=true&count_private=true&hide=issues,contribs)
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@
 
 ## 📌 Notable Project
 
-[![SDB GUI](https://github-readme-stats.vercel.app/api/pin/?username=rifqiharrys&repo=sdb_gui&show_owner=true)](https://github.com/rifqiharrys/sdb_gui)
+[![SDB GUI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rifqiharrys&repo=sdb_gui&show_owner=true)](https://github.com/rifqiharrys/sdb_gui)
 
 [SDB GUI](https://github.com/rifqiharrys/sdb_gui) is my personal project that has supported Badan Informasi Geospasial's bathymetric mapping in shallow coastal waters and coastline generation since 2021.
 
