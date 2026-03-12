@@ -10,9 +10,10 @@
 
 ## 🚀 About Me
 
-- 🗺️ I'm a mapping surveyor of [Badan Informasi Geospasial](https://big.go.id), a geospatial authority in Indonesia.
-- 🛰️ I have an interest on improving Satellite-Derived Bathymetry for shallow water mapping.
-- 🎓 I'm open to a master's scholarship that would support the research on improving Satellite-Derived Bathymetry for faster shallow water mapping in Indonesia's remote areas.
+- 🗺️ Mapping surveyor of [Badan Informasi Geospasial](https://big.go.id), a geospatial authority in Indonesia. Working on national marine and coastal mapping.
+- 🛰️ Part of [Piksel Indonesia](https://github.com/piksel-ina) initiative.
+- 🔭 My interest include geospatial data processing automation, digital image processing, and Satellite-Derived Bathymetry improvement.
+- 🎓 I'm open to a master's scholarship that would support the research on satellite imagery processing applications and improvements for marine and coastal mapping in Indonesia's remote areas.
 
 ## 📌 Notable Project
 
